@@ -89,9 +89,8 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.sites',
     'django.contrib.messages',
-    'polls'
-    # Uncomment the next line to enable the admin:
-    # 'django.contrib.admin',
+    'polls',
+    'django.contrib.admin',
     # Uncomment the next line to enable admin documentation:
     # 'django.contrib.admindocs',
 )
